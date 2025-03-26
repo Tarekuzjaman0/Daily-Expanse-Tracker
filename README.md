@@ -5,13 +5,13 @@ A modern web application for tracking daily expenses, managing budgets, and anal
 
 - ## 📸 Screenshots
 
-![Screenshot-1](1.png)
-![Screenshot-1](2.png)
-![Screenshot-1](3.png)
-![Screenshot-1](4.png)
-![Screenshot-1](5.png)
-![Screenshot-1](6.png)
-![Screenshot-1](7.png)
+![Screenshot-1](screenshot/1.png)
+![Screenshot-1](screenshot/2.png)
+![Screenshot-1](screenshot/3.png)
+![Screenshot-1](screenshot/4.png)
+![Screenshot-1](screenshot/5.png)
+![Screenshot-1](screenshot/6.png)
+![Screenshot-1](screenshot/7.png)
 
 
 ## Features
