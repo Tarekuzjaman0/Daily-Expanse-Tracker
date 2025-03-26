@@ -42,7 +42,7 @@ A modern web application for tracking daily expenses, managing budgets, and anal
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/expance.git
+https://github.com/Tarekuzjaman0/Daily-Expanse-Tracker.git
 cd expance
 ```
 
