@@ -2,6 +2,18 @@
 
 A modern web application for tracking daily expenses, managing budgets, and analyzing spending patterns.
 
+
+- ## 📸 Screenshots
+
+![Screenshot-1](1.png)
+![Screenshot-1](2.png)
+![Screenshot-1](3.png)
+![Screenshot-1](4.png)
+![Screenshot-1](5.png)
+![Screenshot-1](6.png)
+![Screenshot-1](7.png)
+
+
 ## Features
 
 - 📊 Expense Tracking – Log and monitor daily spending
@@ -56,10 +68,7 @@ mysql -u root -p < database.sql
    - Navigate to `http://localhost/expance`
    - Register a new account or use the default credentials
 
-## Default Credentials
 
-- Email: admin@expance.com
-- Password: admin123
 
 ## Directory Structure
 
