@@ -1,1 +1,30 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirecting...</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+            font-family: Arial, sans-serif;
+        }
+        .message {
+            font-size: 20px;
+            color: #333;
+        }
+    </style>
+    <script>
+        setTimeout(function() {
+            window.location.href = "index.php"; // Change to your desired page
+        }, 5000); // 5000 milliseconds = 5 seconds
+    </script>
+</head>
+<body>
+    <div class="message">You will be redirected in 5 seconds...</div>
+</body>
+</html>
